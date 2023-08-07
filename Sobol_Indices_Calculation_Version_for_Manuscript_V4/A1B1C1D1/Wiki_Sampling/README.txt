@@ -1,0 +1,1 @@
+# sanity_check results show that almost all Total Sobol indices are larger than Single Sobol indices.
